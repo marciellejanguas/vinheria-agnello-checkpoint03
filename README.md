@@ -1,5 +1,5 @@
 # vinheria-agnello-checkpoint03
-Checkpoint 3 de Desenvolvimento Web - Vinharia Agnello
+Checkpoint 3 de Desenvolvimento Web - Vinheria Agnello
 
 Descrição do projeto: Implementação de atualização com a utilização de objetos e arrays.
 
